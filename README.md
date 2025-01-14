@@ -32,5 +32,5 @@ This project is licensed under the MIT License.
 
 ## Contributors
 
-<!-- readme: <behzadam>,contributors/- -start -->
-<!-- readme: <leilashellroot>,contributors/- -end -->
+- [Behzad Ali Mohammad Zad](https://github.com/behzadam)
+- [Leila Ilkhani](https://github.com/leilashellroot)
