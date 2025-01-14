@@ -30,7 +30,5 @@ A modern SDK for implementing web push notifications in web applications.
 
 This project is licensed under the MIT License.
 
-## Authors
-
-- [Behzad Ali Mohammad Zad](https://github.com/johndoe)
-- [Leila Ilkhani](https://github.com/leilashellroot)
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
